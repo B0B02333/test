@@ -1,9 +1,5 @@
 package com.rongji.cms.commons;
 
-import org.springframework.web.util.HtmlUtils;
-
-import com.rongji.dfish.util.Utils;
-
 public class HtmlUtil {
 
 	/**
